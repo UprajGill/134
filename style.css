@@ -1,0 +1,22 @@
+body{
+background-position: center;
+background-size: cover;
+}
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+background-color: aquamarine;
+}
+
+#status
+{
+font-size: 25px;
+}
+canvas{
+border: 5px,black,solid;
+border-radius: 40px;
+box-shadow: 5px 5px 35px lightgreen;
+margin-top: 85px;
+}
